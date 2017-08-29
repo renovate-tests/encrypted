@@ -1,0 +1,27 @@
+{
+  "name": "encrypted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renovate-tests/encrypted.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renovate-tests/encrypted/issues"
+  },
+  "devDpendencies": {
+    "prettier": "1.5.2"
+  },
+  "renovate": {
+    "encrypted": {
+      "description": "sVcKzVxm/PONoCBr8FQcCqCJeFkxexr3Mx5Nh1vdZhP5e331SSZ1qNSivSpIoXtlZqI5pcC7UhbfGwUZAM0LXpd6P+DX/i8+HPEKtlNDZ7KJoYGyBThcC5dkJ5SZgv6haahWWmXGaIzRa9cFfzRwTqwpvesviWp+QX/A1TAp6USmEITTxTOSBhyMt9mFfH86u1RoD5XxexuXm7H5anUGEYDwnePtNGwBdfdLe9ipPLCYnXLLss7YI7uzHorLOBysfnAks9fD2ia1pyF+gBDSA6sfye7tm3csOQLwKJGIz6qD/QOrq/tbliFMaLRW87V8HciTOKFPxqsizxkC2RCEhQ=="
+     }
+  },
+  "homepage": "https://v#readme"
+}
