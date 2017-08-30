@@ -16,7 +16,7 @@
     "url": "https://github.com/renovate-tests/encrypted/issues"
   },
   "devDependencies": {
-    "prettier": "1.5.2"
+    "prettier": "1.6.1"
   },
   "renovate": {
     "encrypted": {
